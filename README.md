@@ -6,10 +6,10 @@ Open
 
 ### Al Thammam Pool 1
 
-Closed
+Closed <br>
 Reason: 
 
 ### Al Thammam Pool 2
 
-Closed
+Closed <br>
 Reason:
